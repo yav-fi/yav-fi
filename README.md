@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @yav-fi
 - 🤖 Robotics, AI, Iot
-- 🌱 I’m currently lear
-- 💞️ I’m looking to collaborate on ...
 - 📫 yavinfickel@gmail.com
 - ⚡ 81 WPM average
 
