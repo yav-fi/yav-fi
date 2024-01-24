@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yav-fi
 - 🤖 Interested in robotics, AI, space exploration
 - ⚡ 81 WPM average
-- 📫 yavinfickel@gmail.com
+- 🌎 yavinfickel.com 
 
 <!---
 yav-fi/yav-fi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
