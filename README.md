@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yav-fi
+- 👋 Shalom, I’m Yavin
 - 🤖 Interested in robotics, AI, space exploration
 - ⚡ 81 WPM average
 - 🌎 yavinfickel.com 
