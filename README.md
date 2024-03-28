@@ -1,5 +1,5 @@
 - 👋 Shalom, I’m Yavin
-- 🤖 Interested in robotics, AI, space exploration
+- 🤖 Interested in space exploration, software engineering, and physics
 - ⚡ 81 WPM average
 - 🌎 yavinfickel.com 
 
