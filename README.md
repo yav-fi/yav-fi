@@ -1,7 +1,4 @@
-- 👋 Shalom, I’m Yavin
-- 🤖 Interested in space exploration, software engineering, and physics
-- ⚡ 90 WPM average
-- 🌎 yavinfickel.com 
+yavinfickel.com 
 
 <!---
 yav-fi/yav-fi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
